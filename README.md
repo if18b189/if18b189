@@ -4,8 +4,8 @@
 I find an interest in all sorts of topics and tech. During my spare time I like to tinker with electronics, learn a bit more about AI and broaden my knowledge about programming in general.
 
 ## GitHub Stats
-[![if18b189's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if18b189)](https://github.com/if18b189/github-readme-stats)
-[![if18b189's GitHub stats](https://github-readme-stats.vercel.app/api?username=if18b189&show_icons=true)](https://github.com/if18b189/github-readme-stats)
+[![if18b189's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if18b189)](https://github.com/anuraghazra/github-readme-stats)
+[![if18b189's GitHub stats](https://github-readme-stats.vercel.app/api?username=if18b189&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
