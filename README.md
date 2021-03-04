@@ -1,7 +1,7 @@
 # Hello and welcome on my GitHub profile page! 👋
 
 ## Interests
-I find an interest in all sorts of topics and tech. During my spare time I like to tinker with electronics, learn a bit more about AI and broaden my knowledge about programming in general.
+I find an interest in all sorts of topics and technologies. During my spare time I like to tinker with electronics, learn more about AI and broaden my knowledge about programming in general.
 
 ## GitHub Stats
 [![if18b189's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if18b189)](https://github.com/anuraghazra/github-readme-stats)
